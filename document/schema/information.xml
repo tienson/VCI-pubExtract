@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <pages>
+        <page>
+            <blocks>
+                <block>
+                    <lines>
+                        <line>
+                            <words>
+                                <word>
+                                    <raw></raw>
+                                    <style>
+                                        <positions>
+                                            <x></x>
+                                            <y></y>
+                                        </positions>
+                                        <height>
+
+                                        </height>
+                                        <width>
+
+                                        </width>
+                                        <fontSize>
+
+                                        </fontSize>
+
+                                        <isBold>
+
+                                        </isBold>
+
+                                        <isItalic>
+
+                                        </isItalic>
+
+                                        <isUnderline>
+
+                                        </isUnderline>
+                                    </style>
+                                </word>
+                            </words>
+                            <meta>
+                                <spacingBottom>
+                                </spacingBottom>
+                            </meta>
+                            <raw></raw>
+                        </line>
+                    </lines>
+                    <raw></raw>
+                </block>
+            </blocks>
+            <raw></raw>
+            <meta>
+                <num></num>
+            </meta>
+        </page>
+    </pages>
+    <meta>
+        <filename>
+
+        </filename>
+        <isReviewed>
+            false
+        </isReviewed>
+        <createdAt>
+
+        </createdAt>
+    </meta>
+</document>
